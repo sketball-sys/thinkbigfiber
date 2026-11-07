@@ -1,0 +1,8 @@
+{
+  "name": "FiberQuote - ระบบประเมินราคางานไฟเบอร์กลาส",
+  "description": "ระบบขอใบเสนอราคาและประเมินราคางานไฟเบอร์กลาสสั่งทำพิเศษ คำนวณขนาด ปริมาณวัสดุ และส่งข้อมูลประเมินราคาพร้อมรูปภาพ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
